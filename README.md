@@ -1,2 +1,2 @@
 this is  a test
-[Whatever is real](whatever is real.md)
+[Whatever is real](Whatever is real.md)
