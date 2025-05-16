@@ -1,4 +1,5 @@
 # Whatever is Real Is Dhamma
+YouTube: https://youtu.be/eXQLDzFA6nY?si=n8MwBkwzx0RFe4D8
 
 ## Briefing Document: "Whatever is real is dhamma"
 
