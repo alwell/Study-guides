@@ -1,5 +1,7 @@
 # Understanding Clinging: The Path to Freedom
 
+The following study guide was created using NotebookLM AI. NotebookLM can make mistakes; double-check with the sources.
+
 ## Briefing Document: Review of "The trick of attachment"
 
 This briefing document summarises the main themes and important ideas presented in the excerpts from "The trick of attachment". The text delves into a nuanced understanding of clinging (attachment) from a Buddhist perspective, emphasising the importance of direct understanding of reality as the path to relief and release.
