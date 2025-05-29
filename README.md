@@ -7,5 +7,5 @@ NotebookLM can make mistakes, double-check with the sources.
 
 [Abhidhamma in Daily Life-Book](https://alwell.github.io/Study-guides/abhidhamma_in_daily_life)
 
-[Understanding Clinging](https://alwell.github.io/Study-guides/Understanding_clinging)
+[Understanding Clinging](https://alwell.github.io/Study-guides/understanding_clinging)
   
