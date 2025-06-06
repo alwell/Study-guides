@@ -5,9 +5,9 @@ This briefing summarises key concepts from the provided text, "Excerpts from 'Th
 
 ## Main Themes & Key Ideas:
 
-### 1. Patipatti: Direct Approach to Reality
-*   The Pāli word for practice, **Paṭipatti**, is broken down as "Patti is particularly and pati is to approach".
-*   This signifies a direct, experiential engagement with truth: "aproach to the reality."
+### 1. Paṭipatti: Direct Approach to Reality
+*   The Pāli word for practice, **Paṭipatti**, is broken down as "Patti is particularly and paṭi is to approach" **( could be the other way round)**.
+*   This signifies a direct, experiential engagement with truth: "approach to the reality."
 *   It's not just about intellectual comprehension of concepts like *citta* (consciousness) or *cetasikas* (mental factors), but rather directly "experienc[ing] the object".
 *   The goal is to "get closer to understand the truth" by directly understanding "that which is there."
 
