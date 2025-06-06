@@ -9,5 +9,5 @@ NotebookLM can make mistakes, double-check with the sources.
 
 [Understanding Clinging](https://alwell.github.io/Study-guides/understanding_clinging)
 
-[Meaning of practice](https://alwell.github.io/Study-guides/meaning_of_practice])
+[Meaning of practice](https://alwell.github.io/Study-guides/meaning_of_practice)
   
