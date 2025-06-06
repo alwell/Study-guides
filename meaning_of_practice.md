@@ -1,5 +1,7 @@
 # Paṭipatti: Direct Approach to Buddhist Reality
 
+The below briefing document is Ai generated. It can make mistakes.
+
 ## Briefing: The Meaning of Practice (Paṭipatti) in Buddhism
 This briefing summarises key concepts from the provided text, "Excerpts from 'The meaning of practice'", which delves into the Buddhist understanding of 'practice' (Pāli: *Paṭipatti*). The text emphasises a direct, experiential understanding of reality as opposed to mere theoretical knowledge. The source implies that the word practice is not an accurate translation of paṭipatti.
 
