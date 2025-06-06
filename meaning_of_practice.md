@@ -27,6 +27,6 @@ This briefing summarises key concepts from the provided text, "Excerpts from 'Th
 *   All phenomena (of life) are *dhammas*, arising and falling away due to conditions.
 *   The concept of **Dukkha** (suffering/unsatisfactoriness) extends beyond just "painful feeling, unpleasant feeling." It encompasses the inherent impermanence and fleeting nature of all experiences: "no matter it's pleasant or unpleasant, right understanding or ignorance, all gone. Just there so very, very, very short. No one knows because it arises and falls away very quickly."
 *   Ignorance leads to perceiving these fleeting phenomena as *atta* (self or something substantial). "All of them are taken as atta (something), so it's the world of atta."
-*   Right understanding, through *patipatti*, reveals the truth of **anattā** (non-self/not-self): "But right understanding is not atta, it's anattā, its the world of anattā."
+*   Right understanding, through *paṭipatti*, reveals the truth of **anattā** (non-self/not-self): "But right understanding is not atta, it's anattā, its the world of anattā."
 *   The development of this understanding (**Bhavana**) leads to directly perceiving reality as *anattā*, for instance, by experiencing "only hardness and that which is there experiences hardness, no, nothing is there at all. The world is gone, so it's clear understanding." This illustrates a moment of pure experience devoid of self-identification, revealing the impersonal nature of reality.
 ```
