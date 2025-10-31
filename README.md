@@ -11,3 +11,5 @@ NotebookLM can make mistakes, double-check with the sources.
 
 [Meaning of practice](https://alwell.github.io/Study-guides/meaning_of_practice)
   
+
+[What is now?](https://alwell.github.io/Study-guides/what_is_now)
